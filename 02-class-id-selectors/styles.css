@@ -1,20 +1,29 @@
 /*css*/
 
+
+/* In this section, I am styling individual IDs*/
+
+
 #two {
     color:blue;
     font-size:32px;
 }
 
-.odd {
-    background-color: #ffc0cb;
-    font-family: Verdana, "DejaVu Sans", sans-serif;
-}
 
 #four {
     font-weight: bold;
     background-color: lightgreen;
     font-size: 24px;
 }
+
+/*In this section, I am styling an entire class */
+
+.odd {
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+/* This section styles an attribute with multiple classes*/
 
 .odd.out {
     font-size: 24px;
