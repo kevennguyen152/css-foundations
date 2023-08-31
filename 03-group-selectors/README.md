@@ -1,0 +1,1 @@
+This folder contains the index.html files and css files for the 3rd css foundations assignment 
