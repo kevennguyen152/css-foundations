@@ -1,0 +1,22 @@
+/*styles.css*/
+
+/*grouping both buttons together so I can apply equal characteristics to them */
+.button-one,
+.button-two 
+    {
+        font-size: 28px;
+        font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+/*Here I am applying each button its own characteristics*/
+.button-one 
+    {
+        background-color: black;
+        color: white;
+}
+
+.button-two 
+    {
+        background-color: yellow;
+        color: black;
+}
