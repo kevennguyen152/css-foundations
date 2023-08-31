@@ -1,0 +1,22 @@
+/*css*/
+
+#two {
+    color:blue;
+    font-size:32px;
+}
+
+.odd {
+    background-color: #ffc0cb;
+}
+
+#four {
+    font-weight: bold;
+    background-color: lightgreen;
+    font-size: 24px;
+}
+
+.odd.out {
+    font-size: 24px;
+}
+
+
