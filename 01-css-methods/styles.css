@@ -1,0 +1,10 @@
+/* Here is the styles.css file for the first css foundation assignment */
+
+div {
+
+    color:white;
+    background-color: red;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}

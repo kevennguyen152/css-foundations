@@ -3,22 +3,35 @@
     <head>
         <meta charset = "UTF-8">
         <Title> 01-css-methods </Title>
+
+
+
+        <!--Here is the external styling method-->
+        <!-- I have to recall the styles.css file I created and link it here -->
+        
+        <link rel ="stylesheet" href = "styles.css" />
+
+
+
         <!-- Here is the internal styling method-->
         <style> 
             p {
                 color:white;
                 background-color: green;
-                font-size: 18;
+                font-size: 18px;
             }
         </style>
     </head>
+
+    <!-- Referring back to the first section, the external css file will style anything with the div tag-->
+    <div> Style me via the external method! </div>
 
     <!--Anything with the div tag will be styled in the "head" section-->
     <p> I would like to be styled with the internal method, please. </p> 
 
     <!-- Here is an example of how to do the inline method of styling -->
     <body>
-        <button style = "color:black; background-color:orange; font-size:18;"> Inline Method </button>
+        <button style = "color:black; background-color:orange; font-size:18px;"> Inline Method </button>
     </body>
     
 </html>
