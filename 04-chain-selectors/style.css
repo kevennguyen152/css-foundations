@@ -1,0 +1,14 @@
+/* Styling sheet for assignment 04*/
+
+/*Styling for the avatar and the proportioned classes*/
+
+.avatar.proportioned {
+    width: 300px;
+}
+
+/*Styling for the avatar distorted class */
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
