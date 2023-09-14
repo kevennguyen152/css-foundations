@@ -1,0 +1,1 @@
+This folder contains the styling sheets and html files for assignment 5 in the ODIN project CSS foundations

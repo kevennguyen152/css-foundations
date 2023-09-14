@@ -1,0 +1,8 @@
+/*Here is the css styling sheet for assignment 5 descendant combinators*/
+
+.parent .child {
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+    color: red;
+}
